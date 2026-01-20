@@ -28,9 +28,9 @@ The first player to **win 5 rounds** becomes the champion 🏆.
 - **JavaScript (Vanilla)**
 
 ---
+## 📜 License
 
-## 🚀 How to Run the Project
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with proper attribution.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/invalid-nanda/tic-tac-toe.git
+See the LICENSE file for details.
